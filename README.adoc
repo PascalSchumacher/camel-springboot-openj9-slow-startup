@@ -1,3 +1,15 @@
 You can run this using:
 
     $ mvnw spring-boot:run
+
+Start-up on Hotspot:
+
+`Started Application in 2.95 seconds (JVM running for 3.286)`
+
+Start-up on OpenJ9:
+
+`Started Application in 6.206 seconds (JVM running for 6.964)`
+
+`Started Application in 4.347 seconds (JVM running for 4.637)`
+
+`Started Application in 4.216 seconds (JVM running for 4.479)`
